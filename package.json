@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-express",
+  "version": "1.0.0",
+  "description": "Codealong using Express to make web applications",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "Lucas Greenlee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
